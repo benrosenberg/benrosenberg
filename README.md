@@ -10,4 +10,4 @@ For the sake of organization, I have another GitHub account which I use to host 
 
 ### Miscellaneous
 
-I have another website which I use as a personal reference for various things (including some shell commands, mathematical formulas, and my `preamble.tex` file for LaTeX documents), although it also has some of my homeworks and other work from various classes I've taken. Again for the sake of organization, I store all the files for each of the classes I take in a separate Git repository on a [GitLab account](https://gitlab.com/integralLeft). 
+I have [another website](https://gute.pw) which I use as a personal reference for various things (including some shell commands, mathematical formulas, and my `preamble.tex` file for LaTeX documents), although it also has some of my homeworks and other work from various classes I've taken. Again for the sake of organization, I store all the files for each of the classes I take in a separate Git repository on a [GitLab account](https://gitlab.com/integralLeft). 
