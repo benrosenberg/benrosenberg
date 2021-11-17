@@ -1,6 +1,6 @@
 ## About me
 
-I'm a student at Cornell University pursuing a bachelor's in Operations Research Engineering. I plan on graduating in 2022.
+I'm a student at Cornell University pursuing a double major in Operations Research Engineering and Computer Science. I plan on graduating in 2023.
 
 See [my website](https://benrosenberg.info) for more details.
 
