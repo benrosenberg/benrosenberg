@@ -1,6 +1,6 @@
 ## About me
 
-I'm a student at Cornell University pursuing a major in Operations Research Engineering and minors in Computer Science and Math. I plan on graduating in 2023.
+I'm a student at Cornell University pursuing a major in Operations Research Engineering. I plan on graduating in 2023.
 
 See [my website](https://benrosenberg.info) for more details.
 
